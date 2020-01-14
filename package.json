@@ -1,0 +1,11 @@
+{
+  "name": "quicksorta",
+  "version": "1.0.0",
+  "description": "Sort an array with quicksort",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marian",
+  "license": "ISC"
+}
