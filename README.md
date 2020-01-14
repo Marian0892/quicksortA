@@ -7,4 +7,4 @@ Install:
 Examples
 
     let sortarr = quicksorta([5,4, 6, 7, 1, -12]);
-console.log(sortarr);
+     console.log(sortarr);
